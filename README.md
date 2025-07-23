@@ -1,1 +1,1 @@
-# Psic-logaluci
+# Psi-luci
